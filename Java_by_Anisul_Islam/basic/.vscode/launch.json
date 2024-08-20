@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfTriangle",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticOperators",
+            "request": "launch",
+            "mainClass": "ArithmeticOperators",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Assignment",
+            "request": "launch",
+            "mainClass": "Assignment",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOperator",
+            "request": "launch",
+            "mainClass": "AssignmentOperator",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "BioData",
+            "request": "launch",
+            "mainClass": "BioData",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "CalculateInstallPerMonth",
+            "request": "launch",
+            "mainClass": "CalculateInstallPerMonth",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Celsius",
+            "request": "launch",
+            "mainClass": "Celsius",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalOperator",
+            "request": "launch",
+            "mainClass": "ConditionalOperator",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Datatype",
+            "request": "launch",
+            "mainClass": "Datatype",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "DigitSpelling",
+            "request": "launch",
+            "mainClass": "DigitSpelling",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "FactorialOfNnumber",
+            "request": "launch",
+            "mainClass": "FactorialOfNnumber",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Fahrenheit",
+            "request": "launch",
+            "mainClass": "Fahrenheit",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "FormetSpecifier",
+            "request": "launch",
+            "mainClass": "FormetSpecifier",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "InputDemo",
+            "request": "launch",
+            "mainClass": "InputDemo",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "IterationControlStatement",
+            "request": "launch",
+            "mainClass": "IterationControlStatement",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "JumpControlStatement",
+            "request": "launch",
+            "mainClass": "JumpControlStatement",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "LanguageSelection",
+            "request": "launch",
+            "mainClass": "LanguageSelection",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "LogicalAND",
+            "request": "launch",
+            "mainClass": "LogicalAND",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOr",
+            "request": "launch",
+            "mainClass": "LogicalOr",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "MathClass",
+            "request": "launch",
+            "mainClass": "MathClass",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Multipication",
+            "request": "launch",
+            "mainClass": "Multipication",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberV2",
+            "request": "launch",
+            "mainClass": "PrimeNumberV2",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "SelectionControlStatement",
+            "request": "launch",
+            "mainClass": "SelectionControlStatement",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Series1",
+            "request": "launch",
+            "mainClass": "Series1",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Series2",
+            "request": "launch",
+            "mainClass": "Series2",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOddNumberMtoN",
+            "request": "launch",
+            "mainClass": "SumOfOddNumberMtoN",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "SumUsingForLoop",
+            "request": "launch",
+            "mainClass": "SumUsingForLoop",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "UnaryOparetor",
+            "request": "launch",
+            "mainClass": "UnaryOparetor",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
+            "name": "ValidVoter",
+            "request": "launch",
+            "mainClass": "ValidVoter",
+            "projectName": "basic_3065f81c"
+        }
+    ]
+}

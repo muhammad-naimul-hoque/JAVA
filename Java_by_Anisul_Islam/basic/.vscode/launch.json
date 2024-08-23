@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeNumMtoN",
+            "request": "launch",
+            "mainClass": "PalindromeNumMtoN",
+            "projectName": "basic_3065f81c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
